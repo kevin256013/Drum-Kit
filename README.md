@@ -35,7 +35,7 @@ git clone https://github.com/kevin256013/Drum-Kit.git
 
 Navigate to the project directory:
 
-cd drum-kit
+cd Drum-Kit
 
 Open the index.html file in your browser:
 

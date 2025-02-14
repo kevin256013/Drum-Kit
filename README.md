@@ -1,10 +1,12 @@
-                                                        Drum Kit
+# **Drum Kit**
+<br/>
 
-Overview
+## Overview
 
 The Drum Kit project is an interactive web application that simulates a drum set. Users can press specific keys on their keyboard (such as w, a, s, d, j, k, and l) to play corresponding drum sounds. The project uses HTML, CSS, and JavaScript to create a simple and fun soundboard experience.
 
-How to Play
+
+## How to Play
 
 1. Open the game in your browser.
 2. Press any of the following keys on your keyboard to play a drum sound:
@@ -25,7 +27,7 @@ How to Play
 3. You can also click the buttons on the webpage to play the drum sounds.
 4. Enjoy creating your beats!
    
-Installation & Usage
+## Installation & Usage
 
 Clone the repository:
 

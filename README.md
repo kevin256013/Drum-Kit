@@ -29,14 +29,14 @@ The Drum Kit project is an interactive web application that simulates a drum set
    
 ## Installation & Usage
 
-Clone the repository:
+#### Clone the repository:
 
 git clone https://github.com/kevin256013/Drum-Kit.git
 
-Navigate to the project directory:
+#### Navigate to the project directory:
 
 cd Drum-Kit
 
-Open the index.html file in your browser:
+#### Open the index.html file in your browser:
 
 open index.html
